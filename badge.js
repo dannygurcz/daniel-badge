@@ -1,4 +1,3 @@
-<!-- Place this anywhere near the end of <body> -->
 <script>
 (function() {
   // ====== Styles (injected once) ======
